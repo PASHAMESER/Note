@@ -53,16 +53,3 @@ containerDevNote.addEventListener('click', (e)=>{
     e.target.parentElement.classList.toggle("doneX");
   }
 })
-
-
-
-
-
-
-// btndelete.onclick = () => {
-//   // devNote.style.display = "none";
-//   // [document.querySelectorAll('devNote')].filter(el => el.textContent.includes('sometext'));
-//   // console.log(content)
-//   console.log("content")
-// }
-
